@@ -1,37 +1,30 @@
 <!-- ===================== BANNER ===================== -->
-<div>
- <p align="center">
- <img src="./banner.png" alt="GitHub Banner" width="100%" />
+<p align="center">
+  <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
-</div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Md. Meraj Ali</h1></summary>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+Scalable+Full-Stack+Apps" alt="Typing SVG" />
-  </ul>
-</div>
+<!-- ===================== INTRO ===================== -->
+<h1 align="center">Hi 👋, I'm Md. Meraj Ali</h1>
 
-
-
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+Scalable+Full-Stack+Apps" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I’m **MD. Meraj Ali**, a passionate **MERN Stack Developer** experienced in building real-world full-stack applications.
+I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance, scalable web applications with clean code and exceptional user experiences.
 
 - Strong focus on **clean UI/UX**, performance, and scalability  
-- Hands-on experience with production-level projects  
-- Enjoy optimizing development workflow and solving practical problems  
+- Hands-on experience with **production-level projects**  
+- Enjoy optimizing development workflow and solving real-world problems  
 - Constantly learning and exploring modern web technologies  
 
 ---
 
 ## 🚀 Current Activities
+
 - 🌱 Exploring **advanced React & Next.js concepts**
 - 🏗️ Building **full-stack MERN projects**
 - 🎯 Improving **backend security & performance**
@@ -60,19 +53,20 @@ Hi! I’m **MD. Meraj Ali**, a passionate **MERN Stack Developer** experienced i
 
 ## 🌍 Contact & Location
 
-- 📍 **Dhaka, Bangladesh**
-- 📧 **Email:** mdmerajali1790@gmail.com
-- 📱 **WhatsApp:** +8801315408546
+- 📍 **Location:** Dhaka, Bangladesh  
+- 📧 **Email:** mdmerajali1790@gmail.com  
+- 📱 **WhatsApp:** +8801315408546  
 
 ---
 
 ## 🔗 Connect With Me
+
 <p>
   <a href="https://github.com/mdmerajali721">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mdmerajali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -96,24 +90,24 @@ Hi! I’m **MD. Meraj Ali**, a passionate **MERN Stack Developer** experienced i
 ### 🌍 Tourism Website
 - **Overview:** A responsive tourism platform with modern UI and dynamic content
 - **Tech Stack:** React, Tailwind CSS, Firebase
-- **Live:** 🔗 *Add link here*
+- **Live:** 🔗 https://your-live-link.com
 
 ### 🛒 E-Commerce Platform
-- **Overview:** Full-stack e-commerce app with authentication & payments
+- **Overview:** Full-stack e-commerce app with authentication and payment integration
 - **Tech Stack:** React, Node.js, Express.js, MongoDB
-- **Live:** 🔗 *Add link here*
+- **Live:** 🔗 https://your-live-link.com
 
 ### 💼 Portfolio Website
-- **Overview:** Personal portfolio showcasing projects & skills
+- **Overview:** Personal portfolio showcasing projects, skills, and experience
 - **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
-- **Live:** 🔗 *Add link here*
+- **Live:** 🔗 https://your-live-link.com
 
 ---
 
-## 🧪 Run Any Project Locally
+## 🧪 Run Projects Locally
 
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/mdmerajali721/repository-name.git
 cd repository-name
 npm install
 npm run dev
