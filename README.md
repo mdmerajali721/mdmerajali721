@@ -98,68 +98,44 @@ I'm a **passionate MERN Stack Developer** crafting high-performance, scalable we
 
 ## 📌 Featured Projects
 
-### 🏆 ContestHub (Full-Stack MERN Platform)
-**Production-ready contest management system with role-based access and payments**
+### 🏆 [ContestHub](https://contesthubbd.netlify.app) | Full-Stack MERN Platform
+> **Production-ready contest system with role-based access & secure payments.**
 
-- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, Stripe
-- ✨ **Features:**
-  - Public contest browsing without login
-  - Secure contest registration with Stripe payments
-  - Role-based dashboards (Admin, Creator, User)
-  - Contest creation, management, and winner declaration
-  - Leaderboard ranking users by contest wins
-  - Live countdown timer with automatic contest closure
-  - JWT-based authentication with protected routes
-  - Modal-based submission system
-  - User win-percentage analytics & profile customization
-  - Dark / Light theme (persisted via localStorage)
-  - Fully responsive across all devices
-- 🚀 **Live:** https://contesthubbd.netlify.app
-- 💻 **Client:** https://github.com/mdmerajali721/contest-hub-client
-- 🖥️ **Server:** https://github.com/mdmerajali721/contest-hub-server
+* **🛠️ Tech Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Stripe` • `Firebase` • `JWT`
+* **✨ Core Features:**
+    * **RBAC:** Dedicated Dashboards for **Admin**, **Creator**, and **User**.
+    * **Payments:** Secure registration workflow integrated with **Stripe**.
+    * **Real-time:** Live countdown timers with automated contest closure.
+    * **UX/UI:** Dark/Light mode, Responsive Design, and JWT Protected Routes.
+* **🔗 Source:** [📂 Client-Side](https://github.com/mdmerajali721/contest-hub-client) | [📂 Server-Side](https://github.com/mdmerajali721/contest-hub-server)
 
 ---
 
-### 🍽️ Food Lovers (MERN Stack)
-**Community-driven food review platform for discovering local food experiences**
+### 🍽️ [Food Lovers](https://food-lover21.netlify.app) | Community Platform
+> **Interactive food review platform for discovering and sharing local culinary experiences.**
 
-- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase
-- ✨ **Features:**
-  - Email/Password & Google authentication
-  - Add food reviews with images, ratings, and comments
-  - Browse latest reviews with sorting
-  - Favorite system to save preferred reviews
-  - MongoDB-powered search by food name
-- 🚀 **Live:** https://food-lover21.netlify.app
-- 💻 **Client:** https://github.com/mdmerajali721/food-lover
-- 🖥️ **Server:** https://github.com/mdmerajali721/food-lover-server
+* **🛠️ Tech Stack:** `React.js` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` • `Firebase`
+* **✨ Core Features:**
+    * **Auth:** Secure Email/Password & **Google Social Login**.
+    * **Engagement:** Review system with image uploads, ratings, and comments.
+    * **Search:** Optimized **MongoDB Search** by food name and advanced sorting.
+    * **Personalization:** User-specific "Favorite" system to track preferred reviews.
+* **🔗 Source:** [📂 Client-Side](https://github.com/mdmerajali721/food-lover) | [📂 Server-Side](https://github.com/mdmerajali721/food-lover-server)
 
 ---
 
----
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Meraj's GitHub Stats" width="400px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="300px" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=radical&hide_border=true" width="60%" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=radical&hide_border=true" alt="GitHub Streak" width="715px" />
-
-  <br/> <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmerajali721&theme=radical&no-frame=true&margin-w=15" alt="Trophies" width="715px" />
-</div>
 
 ---
 
