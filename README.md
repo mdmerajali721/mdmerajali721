@@ -60,7 +60,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 
 ## 🌍 Contact & Location
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <a href="mailto:mdmerajali1790@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdmerajali1790@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -70,12 +70,11 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
   </a>
 </p>
 
-
 ---
 
 ## 🔗 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/mdmerajali721">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
