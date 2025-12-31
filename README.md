@@ -100,7 +100,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=radical&hide_border=true" width="65%" />
 </p>
 
@@ -108,14 +108,14 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 
 ## 🌐 Connect With Me
 
-<div>
-  <p align="center>
+<div align="center">
+  <p align="center">
   <a href="https://www.linkedin.com/in/mdmerajali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mdmerajali1790@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/8801315408546"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/mdmerajali721"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 </div>
