@@ -136,27 +136,30 @@ I'm a **passionate MERN Stack Developer** crafting high-performance, scalable we
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="49%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" width="49%" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Meraj's GitHub Stats" width="400px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="300px" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=tokyonight&hide_border=false" width="60%" />
-</p>
+  <br/>
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmerajali721&theme=tokyonight&row=1&column=5" width="75%" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=radical&hide_border=true" alt="GitHub Streak" width="715px" />
 
+  <br/> <br/>
 
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmerajali721&theme=radical&no-frame=true&margin-w=15" alt="Trophies" width="715px" />
+</div>
 
 ---
 
