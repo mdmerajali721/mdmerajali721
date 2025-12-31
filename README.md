@@ -101,49 +101,65 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ## 📌 Featured Projects
 
 ---
+### 🍽️ Food Lovers — Community Food Review Platform
+**A full-stack MERN application for food enthusiasts to discover, review, and share local food experiences.**
 
-### 🍽️ Food Lovers — MERN Stack Project
-**A community-driven platform for food enthusiasts to explore, review, and discover local food experiences.**
+<div align="center">
+  <!-- Replace with your actual screenshot URLs (upload to repo or ImgBB) -->
+  <img src="https://via.placeholder.com/800x450?text=Food+Lovers+Homepage+Screenshot" alt="Food Lovers Homepage" width="800" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin:10px;" />
+  <img src="https://via.placeholder.com/800x450?text=Food+Lovers+Review+Page+Screenshot" alt="Food Lovers Review Page" width="800" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin:10px;" />
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/food-lovers-screenshot.png" alt="Food Lovers Screenshot" width="600"/>
-</p>
+- ⚙️ **Tech Stack:**  
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase" height="30" />
 
-- ⚙️ **Tech Stack:** 
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase" height="25" />
-- ✨ **Key Features:**
-  - User authentication (Email/Password & Google)  
-  - Add food reviews with images, ratings & comments  
-  - Browse latest reviews and save favorites  
-  - Search functionality powered by MongoDB  
-- 🚀 **Live Demo:** [Visit Site](https://food-lover21.netlify.app)  
-- 💻 **Client Repo:** [GitHub](https://github.com/mdmerajali721/food-lover)  
-- 🖥️ **Server Repo:** [GitHub](https://github.com/mdmerajali721/food-lover-server)  
+<details>
+<summary>✨ Key Features (Click to expand)</summary>
+
+- Secure user authentication (Email/Password + Google Sign-In)
+- Add/edit food reviews with images, ratings, and comments
+- Browse latest reviews, search foods, and save favorites
+- MongoDB-powered full-text search
+- Responsive design with modern UI
+
+</details>
+
+<div align="center">
+  🚀 <a href="https://food-lover21.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00FFC8?style=for-the-badge&logo=netlify" alt="Live Demo"/></a>
+  💻 <a href="https://github.com/mdmerajali721/food-lover"><img src="https://img.shields.io/badge/Client_Repo-181717?style=for-the-badge&logo=github" alt="Client Repo"/></a>
+  🖥️ <a href="https://github.com/mdmerajali721/food-lover-server"><img src="https://img.shields.io/badge/Server_Repo-181717?style=for-the-badge&logo=github" alt="Server Repo"/></a>
+</div>
 
 ---
+### 🏆 ContestHub — Advanced Contest Management System
+**A robust full-stack MERN platform with role-based access (Admin, Creator, User), Stripe payments, and interactive features for hosting and joining contests.**
 
-### 🏆 ContestHub — Full-Stack MERN Platform
-**A contest management system supporting Admin, Creator, and User roles with secure authentication, payments, and interactive dashboards.**
+<div align="center">
+  <img src="https://via.placeholder.com/800x450?text=ContestHub+Homepage+Screenshot" alt="ContestHub Homepage" width="800" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin:10px;" />
+  <img src="https://via.placeholder.com/800x450?text=ContestHub+Dashboard+Screenshot" alt="ContestHub Dashboard" width="800" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin:10px;" />
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/contesthub-screenshot.png" alt="ContestHub Screenshot" width="600"/>
-</p>
+- ⚙️ **Tech Stack:**  
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase,stripe" height="30" />
 
-- ⚙️ **Tech Stack:** 
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase,stripe" height="25" />
-- ✨ **Key Features:**
-  - Browse contests without login  
-  - Secure registration with Stripe payment integration  
-  - Role-based dashboards (Admin, Creator, User)  
-  - Contest creation, editing, and winner declaration  
-  - Leaderboard & live countdown timers  
-  - JWT authentication with private routes  
-  - Submission system & profile customization  
-  - Dark/Light mode toggle (saved in localStorage)  
-  - Fully responsive design for all devices  
-- 🚀 **Live Demo:** [Visit Site](https://contesthubbd.netlify.app)  
-- 💻 **Client Repo:** [GitHub](https://github.com/mdmerajali721/contest-hub-client)  
-- 🖥️ **Server Repo:** [GitHub](https://github.com/mdmerajali721/contest-hub-server)  
+<details>
+<summary>✨ Key Features (Click to expand)</summary>
+
+- Role-based dashboards and private routes with JWT authentication
+- Contest creation/editing, registration with Stripe payments, and winner declaration
+- Live countdown timers, leaderboard, and submission system
+- Browse contests publicly, search, and view recent winners
+- Dark/Light mode toggle (persisted in localStorage)
+- Profile customization and creator reviews
+- Fully responsive across devices
+
+</details>
+
+<div align="center">
+  🚀 <a href="https://contesthubbd.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00FFC8?style=for-the-badge&logo=netlify" alt="Live Demo"/></a>
+  💻 <a href="https://github.com/mdmerajali721/contest-hub-client"><img src="https://img.shields.io/badge/Client_Repo-181717?style=for-the-badge&logo=github" alt="Client Repo"/></a>
+  🖥️ <a href="https://github.com/mdmerajali721/contest-hub-server"><img src="https://img.shields.io/badge/Server_Repo-181717?style=for-the-badge&logo=github" alt="Server Repo"/></a>
+</div>
 
 ---
   
