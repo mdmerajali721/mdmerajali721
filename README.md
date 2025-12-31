@@ -1,12 +1,19 @@
 <!-- ===================== BANNER ===================== -->
-<p align="center">
+<div>
+ <p align="center">
  <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
+</div>
 
 
-<p align="center">
-I build secure, scalable, and high-performance full-stack web applications with clean UI and solid backend architecture.
+<div>
+ <p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+Scalable+Full-Stack+Apps" alt="Typing SVG" />
 </p>
+</div>
+
+
+
 
 ---
 
