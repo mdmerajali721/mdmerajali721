@@ -46,7 +46,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="90%" align="center" valign="top">
         <br/>
         <img src="https://img.shields.io/badge/Design%20%26%20Tools-555555?style=for-the-badge&logo=figma" />
         <br/><br/>
