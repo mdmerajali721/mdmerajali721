@@ -1,3 +1,8 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="./banner.png" alt="GitHub Banner" width="100%" style="border-radius:12px;"/>
+</p>
+
 <p align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=mdmerajali721&style=flat-square&color=2ea44f" alt="Profile Views" />
@@ -7,25 +12,10 @@
     <img src="https://img.shields.io/github/followers/mdmerajali721?label=Followers&style=flat-square&color=blue" alt="Followers"/>
   </a>
 
-  <!-- GitHub Following -->
-  <a href="https://github.com/mdmerajali721?tab=following">
-    <img src="https://img.shields.io/github/following/mdmerajali721?label=Following&style=flat-square&color=green" alt="Following"/>
-  </a>
-
-  <!-- Public Repositories -->
-  <a href="https://github.com/mdmerajali721?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/mdmerajali721?style=flat-square&color=orange" alt="Repositories"/>
-  </a>
-
   <!-- Stars -->
   <a href="https://github.com/mdmerajali721?tab=stars">
     <img src="https://img.shields.io/github/stars/mdmerajali721?style=flat-square&color=yellow" alt="Stars"/>
   </a>
-</p>
-
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="./banner.png" alt="GitHub Banner" width="100%" style="border-radius:12px;"/>
 </p>
 
 <!-- ===================== INTRO ===================== -->
