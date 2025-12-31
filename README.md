@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm MD. Meraj Ali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%E2%9A%9B+Node.js+%E2%9A%9B+Express.js+%E2%9A%9B+MongoDB;Building+Scalable+%26+Secure+Full-Stack+Apps;Passionate+about+Clean+Code+%26+Great+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+Node.js+Express.js+MongoDB;Building+Scalable+Secure+Full-Stack+Apps;Passionate+about+Clean+Code+Great+UX" alt="Typing SVG" />
 </p>
 
 ---
