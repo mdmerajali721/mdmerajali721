@@ -7,6 +7,8 @@
 
 
 <div>
+ <h1 style="display: inline-block">Hi 👋, I'm Md. Meraj Ali</h1>
+</br>
  <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+Scalable+Full-Stack+Apps" alt="Typing SVG" />
 </p>
