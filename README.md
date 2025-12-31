@@ -100,20 +100,41 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 
 ## 📌 Featured Projects (Pinned Repositories)
 
-### 🌍 Tourism Website
-- **Overview:** A responsive tourism platform with modern UI and dynamic content
-- **Tech Stack:** React, Tailwind CSS, Firebase
-- **Live:** 🔗 https://your-live-link.com
+### 🍽️ Food Lovers — MERN Stack Project
+**Community-driven food review platform for discovering local food experiences**
 
-### 🛒 E-Commerce Platform
-- **Overview:** Full-stack e-commerce app with authentication and payment integration
-- **Tech Stack:** React, Node.js, Express.js, MongoDB
-- **Live:** 🔗 https://your-live-link.com
+- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase  
+- ✨ **Key Features:**
+  - Email/Password & Google Authentication  
+  - Add food reviews with images, ratings, and comments  
+  - Browse all reviews sorted by latest  
+  - Favorite system to save preferred reviews  
+  - Search reviews by food name (MongoDB-powered)  
+- 🚀 **Live Website:** https://food-lover21.netlify.app  
+- 💻 **Client Repo:** https://github.com/mdmerajali721/food-lover  
+- 🖥️ **Server Repo:** https://github.com/mdmerajali721/food-lover-server  
 
-### 💼 Portfolio Website
-- **Overview:** Personal portfolio showcasing projects, skills, and experience
-- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
-- **Live:** 🔗 https://your-live-link.com
+---
+
+### 🏆 ContestHub — Full-Stack MERN Platform
+**Production-ready contest management system with role-based access and payments**
+
+- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, Stripe  
+- ✨ **Key Features:**
+  - Browse admin-approved contests without login  
+  - Secure contest registration with Stripe payment integration  
+  - Role-based dashboards (Admin, Creator, User)  
+  - Contest creation, management, and winner declaration  
+  - Leaderboard ranking users by contest wins  
+  - Live countdown timer with auto contest end handling  
+  - JWT-based authentication with private routes  
+  - Submission system with modal-based uploads  
+  - Win-percentage chart and profile customization  
+  - Dark / Light theme toggle (saved in localStorage)  
+  - Fully responsive (mobile, tablet, desktop)  
+- 🚀 **Live Website:** https://contesthubbd.netlify.app  
+- 💻 **Client Repo:** https://github.com/mdmerajali721/contest-hub-client  
+- 🖥️ **Server Repo:** https://github.com/mdmerajali721/contest-hub-server  
 
 ---
 
