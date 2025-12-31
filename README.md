@@ -25,15 +25,32 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 
 <div align="center">
 
-**Languages & Core** <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" />
+<table>
+<tr>
+<td align="center" width="25%">
+  <h3>💻 Languages & Core</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" />
+</td>
 
-**Frontend Frameworks** <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
+<td align="center" width="25%">
+  <h3>🎨 Frontend Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
+</td>
 
-**Backend & Database** <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend" />
+<td align="center" width="25%">
+  <h3>🚀 Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend" />
+</td>
 
-**Tools & Design** <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" alt="Tools" />
+<td align="center" width="25%">
+  <h3>🛠️ Tools & Design</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" alt="Tools" />
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ---
 
