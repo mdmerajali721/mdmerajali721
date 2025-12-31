@@ -98,29 +98,38 @@ I'm a **passionate MERN Stack Developer** crafting high-performance, scalable we
 
 ## 📌 Featured Projects
 
-### 🏆 [ContestHub](https://contesthubbd.netlify.app) | Full-Stack MERN Platform
-> **Production-ready contest system with role-based access & secure payments.**
-
-* **🛠️ Tech Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Stripe` • `Firebase` • `JWT`
-* **✨ Core Features:**
-    * **RBAC:** Dedicated Dashboards for **Admin**, **Creator**, and **User**.
-    * **Payments:** Secure registration workflow integrated with **Stripe**.
-    * **Real-time:** Live countdown timers with automated contest closure.
-    * **UX/UI:** Dark/Light mode, Responsive Design, and JWT Protected Routes.
-* **🔗 Source:** [📂 Client-Side](https://github.com/mdmerajali721/contest-hub-client) | [📂 Server-Side](https://github.com/mdmerajali721/contest-hub-server)
-
----
-
-### 🍽️ [Food Lovers](https://food-lover21.netlify.app) | Community Platform
-> **Interactive food review platform for discovering and sharing local culinary experiences.**
-
-* **🛠️ Tech Stack:** `React.js` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` • `Firebase`
-* **✨ Core Features:**
-    * **Auth:** Secure Email/Password & **Google Social Login**.
-    * **Engagement:** Review system with image uploads, ratings, and comments.
-    * **Search:** Optimized **MongoDB Search** by food name and advanced sorting.
-    * **Personalization:** User-specific "Favorite" system to track preferred reviews.
-* **🔗 Source:** [📂 Client-Side](https://github.com/mdmerajali721/food-lover) | [📂 Server-Side](https://github.com/mdmerajali721/food-lover-server)
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 ContestHub</h3>
+      <img src="https://img.shields.io/badge/MERN-Full--Stack-green?style=for-the-badge" alt="Stack" />
+      <p><i>Production-ready contest system with role-based access & secure payments.</i></p>
+      <ul>
+        <li><b>RBAC:</b> Admin, Creator, & User dashboards.</li>
+        <li><b>Payments:</b> Secure <b>Stripe</b> integration.</li>
+        <li><b>Real-time:</b> Automated contest closure & timers.</li>
+      </ul>
+      <p>
+        <a href="https://contesthubbd.netlify.app"><b>🌐 Live Demo</b></a> | 
+        <a href="https://github.com/mdmerajali721/contest-hub-client"><b>📂 Source</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Food Lovers</h3>
+      <img src="https://img.shields.io/badge/MERN-Community-orange?style=for-the-badge" alt="Stack" />
+      <p><i>Interactive platform for discovering and sharing local culinary experiences.</i></p>
+      <ul>
+        <li><b>Auth:</b> Google & Email/Password login.</li>
+        <li><b>Social:</b> Review system with image uploads.</li>
+        <li><b>Search:</b> Advanced MongoDB search & sorting.</li>
+      </ul>
+      <p>
+        <a href="https://food-lover21.netlify.app"><b>🌐 Live Demo</b></a> | 
+        <a href="https://github.com/mdmerajali721/food-lover"><b>📂 Source</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
