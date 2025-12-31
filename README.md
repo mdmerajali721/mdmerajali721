@@ -34,7 +34,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="90%" align="center" valign="top">
         <img src="https://img.shields.io/badge/Frontend-Expertise-ff69b4?style=for-the-badge&logo=react" />
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Icons" />
