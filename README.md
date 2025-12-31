@@ -50,6 +50,12 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
+### 🚀 Deployment & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify" />
+</p>
+
+
 ---
 
 ## 🌍 Contact & Location
