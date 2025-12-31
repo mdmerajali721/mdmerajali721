@@ -163,33 +163,6 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ---
 
 
-- ⚙️ **Tech Stack:**  
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase,stripe" height="30" />
-
-<details>
-<summary>✨ Key Features (Click to expand)</summary>
-
-- Role-based dashboards and private routes with JWT authentication
-- Contest creation/editing, registration with Stripe payments, and winner declaration
-- Live countdown timers, leaderboard, and submission system
-- Browse contests publicly, search, and view recent winners
-- Dark/Light mode toggle (persisted in localStorage)
-- Profile customization and creator reviews
-- Fully responsive across devices
-
-</details>
-
-<div align="center">
-  🚀 <a href="https://contesthubbd.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00FFC8?style=for-the-badge&logo=netlify" alt="Live Demo"/></a>
-  💻 <a href="https://github.com/mdmerajali721/contest-hub-client"><img src="https://img.shields.io/badge/Client_Repo-181717?style=for-the-badge&logo=github" alt="Client Repo"/></a>
-  🖥️ <a href="https://github.com/mdmerajali721/contest-hub-server"><img src="https://img.shields.io/badge/Server_Repo-181717?style=for-the-badge&logo=github" alt="Server Repo"/></a>
-</div>
-
----
-  
-
----
-
 ## 🧪 Run Projects Locally
 
 ```bash
