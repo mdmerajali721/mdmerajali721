@@ -1,92 +1,90 @@
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmerajali721/mdmerajali721/main/banner.png" alt="MD. Meraj Ali Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there!%20I%27m%20MD.%20MERAJ%20ALI&fontSize=50&color=FFFFFF&animation=fadeIn" alt="Banner"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm MD. Meraj Ali</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+Scalable+Full-Stack+Apps" alt="Typing SVG" />
-</p>
+# MD. MERAJ ALI 👋
+### MERN Stack Developer | React.js, Node.js, MongoDB, Express.js  
+Building Scalable Full-Stack Web Applications
 
 ---
 
-## 🚀 About Me
+## About Me
+Hi! I’m **MD. MERAJ ALI**, a passionate MERN Stack Developer with expertise in building full-stack web applications.  
 
-I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance, scalable web applications with clean code and exceptional user experiences.
+I focus on creating **secure, scalable, and high-performance applications**. I have hands-on experience with real-world projects and enjoy improving development workflow and UI/UX quality using tools like **Git, GitHub, Chrome DevTools, Vite, DaisyUI, Figma, and React Router**.  
 
-- ⚡ **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, Next.js.
-- 🛠️ **Backend:** Node.js, Express.js, MongoDB, Firebase Authentication.
-- ⚙️ **Tools:** Git, GitHub, VS Code, Vite, Figma, Chrome DevTools.
-- 🔭 **Focus:** Currently building real-world projects and improving UI/UX quality.
+Currently exploring new technologies and building projects that enhance full-stack skills and practical problem-solving.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Skills
 
-<div align="center">
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /> 
 
-<table>
-<tr>
-<td align="center" width="25%">
-  <h3>💻 Languages & Core</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" />
-</td>
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" /> 
 
-<td align="center" width="25%">
-  <h3>🎨 Frontend Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
-</td>
-
-<td align="center" width="25%">
-  <h3>🚀 Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend" />
-</td>
-
-<td align="center" width="25%">
-  <h3>🛠️ Tools & Design</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" alt="Tools" />
-</td>
-</tr>
-</table>
-
-</div>
-
+### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /> 
 
 ---
 
-## 📊 GitHub Ecosystem
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=radical&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmerajali721&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
+## 📍 Contact & Location
+- **Email:** [mdmerajali1790@gmail.com](mailto:mdmerajali1790@gmail.com)  
+- **WhatsApp:** +8801315408546  
+- **GitHub:** [mdmerajali721](https://github.com/mdmerajali721)  
+- **LinkedIn:** [MD MERAJ ALI](https://www.linkedin.com/in/mdmerajali)  
+- **Location:** Dhaka, Bangladesh  
 
 ---
 
-## 🌐 Let's Connect
+## 🔗 Social Links
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmerajali721)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmerajali)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801315408546)
 
-<p align="center">
-  <a href="mailto:mdmerajali1790@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mdmerajali">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mdmerajali721">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdmerajali721&label=Profile%20views&color=00ff00&style=flat" alt="Profile views" />
-</p>
+## 📊 GitHub Stats
+![Meraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical)
 
-<h3 align="center"> 💖 Thanks for stopping by! Let's build something amazing together! 🚀 </h3>
+---
+
+## 📌 Pinned Repositories
+
+### 1. Tourism Website
+- **Description:** A fully responsive tourism website showcasing destinations, booking forms, and interactive UI.  
+- **Live Link:** [Tourism Website](#)  
+- **Technologies:** React, Tailwind CSS, Firebase  
+
+### 2. E-commerce Store
+- **Description:** An e-commerce platform with product listings, cart functionality, and Stripe payment integration.  
+- **Live Link:** [E-commerce Store](#)  
+- **Technologies:** React, Node.js, Express, MongoDB  
+
+### 3. Portfolio Website
+- **Description:** Personal portfolio website to showcase projects, skills, and contact info.  
+- **Live Link:** [Portfolio](#)  
+- **Technologies:** HTML, CSS, JavaScript, Tailwind CSS  
+
+---
+
+## 📂 How to Run Projects Locally
+```bash
+git clone <repository-link>
+cd <project-folder>
+npm install
+npm start
