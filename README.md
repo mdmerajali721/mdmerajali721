@@ -56,7 +56,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
         <br/>
         <img src="https://img.shields.io/badge/Cloud%20%26%20Hosting-2ea44f?style=for-the-badge&logo=vercel" />
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=vercel,netlify,postman,npm" alt="Hosting Icons" />
+        <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify" alt="Hosting Icons" />
       </td>
     </tr>
   </table>
