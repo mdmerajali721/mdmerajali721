@@ -104,14 +104,22 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="41.5%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=radical&hide_border=true" alt="GitHub Streak" width="90.5%" />
-  </p>
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
