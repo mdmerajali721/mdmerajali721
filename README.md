@@ -100,7 +100,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=radical&hide_border=true" width="65%" />
 </p>
 
@@ -116,7 +116,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
   <a href="https://github.com/mdmerajali721"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-34A853?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 </div>
 
