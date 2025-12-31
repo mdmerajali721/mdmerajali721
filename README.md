@@ -20,12 +20,16 @@
 
 <!-- About Me Section -->
 <p align="center">
-Hi! I’m MD. MERAJ ALI, a passionate MERN Stack Developer with expertise in building full-stack web applications.  
+Hi! I’m MD. MERAJ ALI, a passionate MERN Stack Developer focused on building **full-stack web applications**.
 
-Frontend Expertise: HTML, CSS, Tailwind CSS, JavaScript, React.js  
-Backend Expertise: Node.js, Express.js, MongoDB, Firebase
+### 🔹 Frontend Expertise:
+- HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js
 
-I focus on creating secure, scalable, and high-performance applications. I have hands-on experience with real-world projects and enjoy improving development workflow and UI/UX quality using tools like Git, GitHub, Chrome DevTools, Vite, DaisyUI, Figma, and React Router.  
+### 🔹 Backend Expertise:
+- Node.js, Express.js, MongoDB, Firebase
 
-Currently exploring new technologies and building projects that enhance full-stack skills and practical problem-solving.  
+### 🔹 Tools & Workflow:
+- Git, GitHub, Chrome DevTools, Vite, DaisyUI, Figma, React Router
+
+I create **secure, scalable, and high-performance applications**. Currently exploring new technologies and working on projects that enhance **full-stack skills** and **practical problem-solving**.
 </p>
