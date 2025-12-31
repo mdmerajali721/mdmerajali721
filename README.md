@@ -32,23 +32,34 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ## 🧰 Tech Stack
 
 <div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/-Frontend-ff69b4?style=flat-square" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/-Backend%20%26%20DB-007ACC?style=flat-square" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/-Tools%20%26%20Deployment-2ea44f?style=flat-square" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
-  </p>
+  <table border="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://img.shields.io/badge/Frontend-Expertise-ff69b4?style=for-the-badge&logo=react" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Icons" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://img.shields.io/badge/Backend-Development-007ACC?style=for-the-badge&logo=node.js" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Icons" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <br/>
+        <img src="https://img.shields.io/badge/Design%20%26%20Tools-555555?style=for-the-badge&logo=figma" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools Icons" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <br/>
+        <img src="https://img.shields.io/badge/Cloud%20%26%20Hosting-2ea44f?style=for-the-badge&logo=vercel" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=vercel,netlify,postman,npm" alt="Hosting Icons" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
