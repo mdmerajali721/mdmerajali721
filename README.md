@@ -71,29 +71,26 @@ I'm a **passionate MERN Stack Developer** crafting high-performance, scalable we
 
 ---
 
-## 🌍 Contact & Location
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <a href="mailto:mdmerajali1790@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdmerajali1790@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8801315408546">
-    <img src="https://img.shields.io/badge/WhatsApp-+8801315408546-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+## 🌐 Connect & Collaborate
 
----
-
-## 🔗 Connect With Me
 <p align="center">
-  <a href="https://github.com/mdmerajali721">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/mdmerajali">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:mdmerajali1790@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801315408546">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/mdmerajali721">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  <b>📍 Dhaka, Bangladesh</b>
+</p>
 ---
 
 ## 📌 Featured Projects
