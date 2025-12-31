@@ -115,9 +115,8 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
   <a href="https://github.com/mdmerajali721"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <b>📍 Dhaka, Bangladesh</b>
-</p>
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
 
 ---
 
