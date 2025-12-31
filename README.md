@@ -1,90 +1,113 @@
-<!-- Banner Image -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there!%20I%27m%20MD.%20MERAJ%20ALI&fontSize=50&color=FFFFFF&animation=fadeIn" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MD.%20MERAJ%20ALI&fontSize=55&fontAlignY=40&desc=MERN%20Stack%20Developer%20|%20Building%20Scalable%20Web%20Apps&descAlignY=65&color=gradient" />
 </p>
 
-# MD. MERAJ ALI 👋
-### MERN Stack Developer | React.js, Node.js, MongoDB, Express.js  
-Building Scalable Full-Stack Web Applications
+<!-- ===================== INTRO ===================== -->
+<h3 align="center">
+MERN Stack Developer | React.js • Node.js • MongoDB • Express.js  
+</h3>
+
+<p align="center">
+I build secure, scalable, and high-performance full-stack web applications with clean UI and solid backend architecture.
+</p>
 
 ---
 
-## About Me
-Hi! I’m **MD. MERAJ ALI**, a passionate MERN Stack Developer with expertise in building full-stack web applications.  
+## 👨‍💻 About Me
 
-I focus on creating **secure, scalable, and high-performance applications**. I have hands-on experience with real-world projects and enjoy improving development workflow and UI/UX quality using tools like **Git, GitHub, Chrome DevTools, Vite, DaisyUI, Figma, and React Router**.  
+Hi! I’m **MD. Meraj Ali**, a passionate **MERN Stack Developer** experienced in building real-world full-stack applications.
 
-Currently exploring new technologies and building projects that enhance full-stack skills and practical problem-solving.
-
----
-
-## 🛠 Skills
-
-### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /> 
-
-### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" /> 
-
-### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /> 
+- Strong focus on **clean UI/UX**, performance, and scalability  
+- Hands-on experience with production-level projects  
+- Enjoy optimizing development workflow and solving practical problems  
+- Constantly learning and exploring modern web technologies  
 
 ---
 
-## 📍 Contact & Location
-- **Email:** [mdmerajali1790@gmail.com](mailto:mdmerajali1790@gmail.com)  
-- **WhatsApp:** +8801315408546  
-- **GitHub:** [mdmerajali721](https://github.com/mdmerajali721)  
-- **LinkedIn:** [MD MERAJ ALI](https://www.linkedin.com/in/mdmerajali)  
-- **Location:** Dhaka, Bangladesh  
+## 🚀 Current Activities
+- 🌱 Exploring **advanced React & Next.js concepts**
+- 🏗️ Building **full-stack MERN projects**
+- 🎯 Improving **backend security & performance**
+- 🎨 Enhancing **UI/UX quality** with modern tools
 
 ---
 
-## 🔗 Social Links
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmerajali721)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmerajali)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801315408546)
+## 🧰 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🛠 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Meraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical)
+## 🌍 Contact & Location
+
+- 📍 **Dhaka, Bangladesh**
+- 📧 **Email:** mdmerajali1790@gmail.com
+- 📱 **WhatsApp:** +8801315408546
 
 ---
 
-## 📌 Pinned Repositories
-
-### 1. Tourism Website
-- **Description:** A fully responsive tourism website showcasing destinations, booking forms, and interactive UI.  
-- **Live Link:** [Tourism Website](#)  
-- **Technologies:** React, Tailwind CSS, Firebase  
-
-### 2. E-commerce Store
-- **Description:** An e-commerce platform with product listings, cart functionality, and Stripe payment integration.  
-- **Live Link:** [E-commerce Store](#)  
-- **Technologies:** React, Node.js, Express, MongoDB  
-
-### 3. Portfolio Website
-- **Description:** Personal portfolio website to showcase projects, skills, and contact info.  
-- **Live Link:** [Portfolio](#)  
-- **Technologies:** HTML, CSS, JavaScript, Tailwind CSS  
+## 🔗 Connect With Me
+<p>
+  <a href="https://github.com/mdmerajali721">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mdmerajali">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 📂 How to Run Projects Locally
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmerajali721&theme=radical&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 📌 Featured Projects (Pinned Repositories)
+
+### 🌍 Tourism Website
+- **Overview:** A responsive tourism platform with modern UI and dynamic content
+- **Tech Stack:** React, Tailwind CSS, Firebase
+- **Live:** 🔗 *Add link here*
+
+### 🛒 E-Commerce Platform
+- **Overview:** Full-stack e-commerce app with authentication & payments
+- **Tech Stack:** React, Node.js, Express.js, MongoDB
+- **Live:** 🔗 *Add link here*
+
+### 💼 Portfolio Website
+- **Overview:** Personal portfolio showcasing projects & skills
+- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
+- **Live:** 🔗 *Add link here*
+
+---
+
+## 🧪 Run Any Project Locally
+
 ```bash
-git clone <repository-link>
-cd <project-folder>
+git clone https://github.com/username/repository-name.git
+cd repository-name
 npm install
-npm start
+npm run dev
