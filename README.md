@@ -7,7 +7,7 @@
 
 
 <div align="center">
- <p style="font-size: 32px; font-weight: bold;">
+ <p style="font-size: 56px; font-weight: bold;">
   Hi 👋, I'm Md. Meraj Ali
 </p>
  
