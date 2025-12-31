@@ -26,10 +26,10 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 
 ## 🚀 Current Activities
 
-- 🌱 Exploring **advanced React & Next.js concepts**
-- 🏗️ Building **full-stack MERN projects**
-- 🎯 Improving **backend security & performance**
-- 🎨 Enhancing **UI/UX quality** with modern tools
+-  Exploring **advanced React & Next.js concepts**
+-  Building **full-stack MERN projects**
+-  Improving **backend security & performance**
+-  Enhancing **UI/UX quality** with modern tools
 
 ---
 
@@ -60,9 +60,16 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 
 ## 🌍 Contact & Location
 
-- 📍 **Location:** Dhaka, Bangladesh  
-- 📧 **Email:** mdmerajali1790@gmail.com  
-- 📱 **WhatsApp:** +8801315408546  
+<p>
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="mailto:mdmerajali1790@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdmerajali1790@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801315408546">
+    <img src="https://img.shields.io/badge/WhatsApp-+8801315408546-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
