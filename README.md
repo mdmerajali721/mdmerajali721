@@ -1,12 +1,8 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MD.%20MERAJ%20ALI&fontSize=55&fontAlignY=40&desc=MERN%20Stack%20Developer%20|%20Building%20Scalable%20Web%20Apps&descAlignY=65&color=gradient" />
+ <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<!-- ===================== INTRO ===================== -->
-<h3 align="center">
-MERN Stack Developer | React.js • Node.js • MongoDB • Express.js  
-</h3>
 
 <p align="center">
 I build secure, scalable, and high-performance full-stack web applications with clean UI and solid backend architecture.
