@@ -3,10 +3,11 @@
   <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<!-- Name & Greeting -->
-<h1 align="center">👋 Hi, I'm Md. Meraj Ali</h1>
+<!--  -->
 
-<!-- Typing Animation for Skills -->
+
+<!-- Name & Greeting & Typing Animation for Skills -->
+<h1 align="center">👋 Hi, I'm Md. Meraj Ali</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00ff00&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+Scalable+Full-Stack+Apps" alt="Typing Animation">
 </p>
