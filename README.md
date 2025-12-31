@@ -101,13 +101,43 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ## 📌 Featured Projects
 
 ---
+
+### 🏆 ContestHub — Advanced Contest Management System
+**A robust full-stack MERN platform with role-based access, Stripe payments, and interactive dashboards.**
+
+<div align="center">
+  <img src="./contesthub90" alt="ContestHub Homepage" width="700" style="border-radius:12px; box-shadow:0 6px 12px rgba(0,0,0,0.2); margin:10px;" />
+</div>
+
+- ⚙️ **Tech Stack:**  
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase,stripe" height="30" />
+
+<details>
+<summary>✨ Key Features (Click to expand)</summary>
+
+- Role-based dashboards (Admin, Creator, User) with JWT authentication  
+- Contest creation, editing, registration with Stripe payments, and winner declaration  
+- Live countdown timers, leaderboard, and submission system  
+- Browse contests publicly, search, and view recent winners  
+- Dark/Light mode toggle (persisted in localStorage)  
+- Profile customization and creator reviews  
+- Fully responsive across devices  
+
+</details>
+
+<div align="center" style="margin-top:10px;">
+  🚀 <a href="https://contesthubbd.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00FFC8?style=for-the-badge&logo=netlify" alt="Live Demo"/></a>
+  💻 <a href="https://github.com/mdmerajali721/contest-hub-client"><img src="https://img.shields.io/badge/Client_Repo-181717?style=for-the-badge&logo=github" alt="Client Repo"/></a>
+  🖥️ <a href="https://github.com/mdmerajali721/contest-hub-server"><img src="https://img.shields.io/badge/Server_Repo-181717?style=for-the-badge&logo=github" alt="Server Repo"/></a>
+</div>
+
+---
+
 ### 🍽️ Food Lovers — Community Food Review Platform
 **A full-stack MERN application for food enthusiasts to discover, review, and share local food experiences.**
 
 <div align="center">
-  <!-- Replace with your actual screenshot URLs (upload to repo or ImgBB) -->
-  <img src="https://via.placeholder.com/800x450?text=Food+Lovers+Homepage+Screenshot" alt="Food Lovers Homepage" width="800" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin:10px;" />
-  <img src="https://via.placeholder.com/800x450?text=Food+Lovers+Review+Page+Screenshot" alt="Food Lovers Review Page" width="800" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin:10px;" />
+  <img src="./FoodLover90" alt="Food Lovers Homepage" width="700" style="border-radius:12px; box-shadow:0 6px 12px rgba(0,0,0,0.2); margin:10px;" />
 </div>
 
 - ⚙️ **Tech Stack:**  
@@ -116,28 +146,22 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 <details>
 <summary>✨ Key Features (Click to expand)</summary>
 
-- Secure user authentication (Email/Password + Google Sign-In)
-- Add/edit food reviews with images, ratings, and comments
-- Browse latest reviews, search foods, and save favorites
-- MongoDB-powered full-text search
-- Responsive design with modern UI
+- Secure user authentication (Email/Password + Google Sign-In)  
+- Add/edit food reviews with images, ratings, and comments  
+- Browse latest reviews, search foods, and save favorites  
+- MongoDB-powered full-text search  
+- Responsive design with modern UI  
 
 </details>
 
-<div align="center">
+<div align="center" style="margin-top:10px;">
   🚀 <a href="https://food-lover21.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00FFC8?style=for-the-badge&logo=netlify" alt="Live Demo"/></a>
   💻 <a href="https://github.com/mdmerajali721/food-lover"><img src="https://img.shields.io/badge/Client_Repo-181717?style=for-the-badge&logo=github" alt="Client Repo"/></a>
   🖥️ <a href="https://github.com/mdmerajali721/food-lover-server"><img src="https://img.shields.io/badge/Server_Repo-181717?style=for-the-badge&logo=github" alt="Server Repo"/></a>
 </div>
 
 ---
-### 🏆 ContestHub — Advanced Contest Management System
-**A robust full-stack MERN platform with role-based access (Admin, Creator, User), Stripe payments, and interactive features for hosting and joining contests.**
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x450?text=ContestHub+Homepage+Screenshot" alt="ContestHub Homepage" width="800" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin:10px;" />
-  <img src="https://via.placeholder.com/800x450?text=ContestHub+Dashboard+Screenshot" alt="ContestHub Dashboard" width="800" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin:10px;" />
-</div>
 
 - ⚙️ **Tech Stack:**  
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase,stripe" height="30" />
