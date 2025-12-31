@@ -1,31 +1,31 @@
+<!-- Banner Image -->
 <p align="center">
-  <img src="./banner.png" alt="GitHub Banner" />
+  <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
+<!-- Name & Greeting -->
 <h1 align="center">👋 Hi, I'm MD. MERAJ ALI</h1>
 <h3 align="center">
-MERN Stack Developer | React.js, Node.js, MongoDB, Express.js <br/>
-Building Scalable Full-Stack Web Applications
+  MERN Stack Developer | React.js, Node.js, MongoDB, Express.js <br/>
+  Building Scalable Full-Stack Web Applications
 </h3>
+
+<!-- Typing Animation for Skills -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00ff00&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+Scalable+Full-Stack+Apps" alt="Typing Animation">
 </p>
 
+<!-- Divider -->
+<hr />
 
+<!-- About Me Section -->
+<p align="center">
+Hi! I’m MD. MERAJ ALI, a passionate MERN Stack Developer with expertise in building full-stack web applications.  
 
+Frontend Expertise: HTML, CSS, Tailwind CSS, JavaScript, React.js  
+Backend Expertise: Node.js, Express.js, MongoDB, Firebase
 
+I focus on creating secure, scalable, and high-performance applications. I have hands-on experience with real-world projects and enjoy improving development workflow and UI/UX quality using tools like Git, GitHub, Chrome DevTools, Vite, DaisyUI, Figma, and React Router.  
 
-<!--
-**mdmerajali721/mdmerajali721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring new technologies and building projects that enhance full-stack skills and practical problem-solving.  
+</p>
