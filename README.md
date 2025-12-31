@@ -98,43 +98,55 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 
 ---
 
-## 📌 Featured Projects (Pinned Repositories)
+## 📌 Featured Projects
+
+---
 
 ### 🍽️ Food Lovers — MERN Stack Project
-**Community-driven food review platform for discovering local food experiences**
+**A community-driven platform for food enthusiasts to explore, review, and discover local food experiences.**
 
-- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/food-lovers-screenshot.png" alt="Food Lovers Screenshot" width="600"/>
+</p>
+
+- ⚙️ **Tech Stack:** 
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase" height="25" />
 - ✨ **Key Features:**
-  - Email/Password & Google Authentication  
-  - Add food reviews with images, ratings, and comments  
-  - Browse all reviews sorted by latest  
-  - Favorite system to save preferred reviews  
-  - Search reviews by food name (MongoDB-powered)  
-- 🚀 **Live Website:** https://food-lover21.netlify.app  
-- 💻 **Client Repo:** https://github.com/mdmerajali721/food-lover  
-- 🖥️ **Server Repo:** https://github.com/mdmerajali721/food-lover-server  
+  - User authentication (Email/Password & Google)  
+  - Add food reviews with images, ratings & comments  
+  - Browse latest reviews and save favorites  
+  - Search functionality powered by MongoDB  
+- 🚀 **Live Demo:** [Visit Site](https://food-lover21.netlify.app)  
+- 💻 **Client Repo:** [GitHub](https://github.com/mdmerajali721/food-lover)  
+- 🖥️ **Server Repo:** [GitHub](https://github.com/mdmerajali721/food-lover-server)  
 
 ---
 
 ### 🏆 ContestHub — Full-Stack MERN Platform
-**Production-ready contest management system with role-based access and payments**
+**A contest management system supporting Admin, Creator, and User roles with secure authentication, payments, and interactive dashboards.**
 
-- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, Stripe  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/contesthub-screenshot.png" alt="ContestHub Screenshot" width="600"/>
+</p>
+
+- ⚙️ **Tech Stack:** 
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase,stripe" height="25" />
 - ✨ **Key Features:**
-  - Browse admin-approved contests without login  
-  - Secure contest registration with Stripe payment integration  
+  - Browse contests without login  
+  - Secure registration with Stripe payment integration  
   - Role-based dashboards (Admin, Creator, User)  
-  - Contest creation, management, and winner declaration  
-  - Leaderboard ranking users by contest wins  
-  - Live countdown timer with auto contest end handling  
-  - JWT-based authentication with private routes  
-  - Submission system with modal-based uploads  
-  - Win-percentage chart and profile customization  
-  - Dark / Light theme toggle (saved in localStorage)  
-  - Fully responsive (mobile, tablet, desktop)  
-- 🚀 **Live Website:** https://contesthubbd.netlify.app  
-- 💻 **Client Repo:** https://github.com/mdmerajali721/contest-hub-client  
-- 🖥️ **Server Repo:** https://github.com/mdmerajali721/contest-hub-server  
+  - Contest creation, editing, and winner declaration  
+  - Leaderboard & live countdown timers  
+  - JWT authentication with private routes  
+  - Submission system & profile customization  
+  - Dark/Light mode toggle (saved in localStorage)  
+  - Fully responsive design for all devices  
+- 🚀 **Live Demo:** [Visit Site](https://contesthubbd.netlify.app)  
+- 💻 **Client Repo:** [GitHub](https://github.com/mdmerajali721/contest-hub-client)  
+- 🖥️ **Server Repo:** [GitHub](https://github.com/mdmerajali721/contest-hub-server)  
+
+---
+  
 
 ---
 
