@@ -39,7 +39,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Icons" />
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="90%" align="center" valign="top">
         <img src="https://img.shields.io/badge/Backend-Development-007ACC?style=for-the-badge&logo=node.js" />
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Icons" />
@@ -52,7 +52,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools Icons" />
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="90%" align="center" valign="top">
         <br/>
         <img src="https://img.shields.io/badge/Cloud%20%26%20Hosting-2ea44f?style=for-the-badge&logo=vercel" />
         <br/><br/>
