@@ -1,10 +1,3 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="./banner.png" alt="GitHub Banner" width="100%" style="border-radius:12px;"/>
-</p>
-
-## 👀 Profile Views & Stats
-
 <p align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=mdmerajali721&style=flat-square&color=2ea44f" alt="Profile Views" />
@@ -30,6 +23,10 @@
   </a>
 </p>
 
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="./banner.png" alt="GitHub Banner" width="100%" style="border-radius:12px;"/>
+</p>
 
 <!-- ===================== INTRO ===================== -->
 <div id="user-content-toc">
