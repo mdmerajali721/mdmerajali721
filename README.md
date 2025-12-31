@@ -79,7 +79,8 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
       </ul>
       <p>
         <a href="https://contesthubbd.netlify.app"><b>🌐 Live Demo</b></a> | 
-        <a href="https://github.com/mdmerajali721/contest-hub-client"><b>📂 Source</b></a>
+        <a href="https://github.com/mdmerajali721/contest-hub-client"><b>📂 Client Source</b></a>
+        <a href="[https://github.com/mdmerajali721/contest-hub-client](https://github.com/mdmerajali721/contest-hub-server.git)"><b>📂 Server Source</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -93,7 +94,8 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
       </ul>
       <p>
         <a href="https://food-lover21.netlify.app"><b>🌐 Live Demo</b></a> | 
-        <a href="https://github.com/mdmerajali721/food-lover"><b>📂 Source</b></a>
+        <a href="https://github.com/mdmerajali721/food-lover"><b>📂 Client Source</b></a>
+        <a [href="https://github.com/mdmerajali721/food-lover](https://github.com/mdmerajali721/food-lover-server.git)"><b>📂 Server Source</b></a>
       </p>
     </td>
   </tr>
