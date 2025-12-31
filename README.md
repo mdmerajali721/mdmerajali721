@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="./banner.png" alt="GitHub Banner" width="100%" />
+  <img src="./banner.png" alt="GitHub Banner" width="100%" style="border-radius:12px;"/>
 </p>
 
 <!-- ===================== INTRO ===================== -->
@@ -11,25 +11,24 @@
   </ul>
 </div>
 
+
 ---
 
 ## 👨‍💻 About Me
+I'm a **passionate MERN Stack Developer** crafting high-performance, scalable web apps with clean code and engaging user experiences.  
 
-I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance, scalable web applications with clean code and exceptional user experiences.
-
-- Strong focus on **clean UI/UX**, performance, and scalability  
-- Hands-on experience with **production-level projects**  
-- Enjoy optimizing development workflow and solving real-world problems  
-- Constantly learning and exploring modern web technologies  
+- Focused on **clean UI/UX**, performance, and scalability  
+- Hands-on with **production-level projects**  
+- Passionate about **solving real-world problems**  
+- Continuously learning **modern web technologies**  
 
 ---
 
 ## 🚀 Current Activities
-
--  Exploring **advanced React & Next.js concepts**
--  Building **full-stack MERN projects**
--  Improving **backend security & performance**
--  Enhancing **UI/UX quality** with modern tools
+- Exploring **advanced React & Next.js concepts**  
+- Building **full-stack MERN projects**  
+- Improving **backend security & performance**  
+- Enhancing **UI/UX with modern tools**  
 
 ---
 
@@ -55,11 +54,9 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
   <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify" />
 </p>
 
-
 ---
 
 ## 🌍 Contact & Location
-
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <a href="mailto:mdmerajali1790@gmail.com">
@@ -73,7 +70,6 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ---
 
 ## 🔗 Connect With Me
-
 <p align="center">
   <a href="https://github.com/mdmerajali721">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -86,7 +82,6 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdmerajali721&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajali721&layout=compact&theme=radical&hide_border=true" width="48%" />
@@ -101,49 +96,41 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ## 📌 Featured Projects
 
 ### 🍽️ Food Lovers (MERN Stack)
-**Community-driven food review platform for discovering local food experiences**
+**Community-driven food review platform for discovering local food experiences**  
 
-- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase
-- ✨ **Features:**
-  - Email/Password & Google authentication
-  - Add food reviews with images, ratings, and comments
-  - Browse latest reviews with sorting
-  - Favorite system to save preferred reviews
-  - MongoDB-powered search by food name
-- 🚀 **Live:** https://food-lover21.netlify.app
-- 💻 **Client:** https://github.com/mdmerajali721/food-lover
-- 🖥️ **Server:** https://github.com/mdmerajali721/food-lover-server
+- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase  
+- ✨ **Features:**  
+  - Email/Google authentication  
+  - Add food reviews with images, ratings, comments  
+  - Browse & search reviews  
+  - Favorite system  
+- 🚀 **Live:** [food-lover](https://food-lover21.netlify.app)  
+- 💻 **Client:** [GitHub](https://github.com/mdmerajali721/food-lover)  
+- 🖥️ **Server:** [GitHub](https://github.com/mdmerajali721/food-lover-server)  
 
 ---
 
 ### 🏆 ContestHub (Full-Stack MERN Platform)
-**Production-ready contest management system with role-based access and payments**
+**Production-ready contest management system with role-based access & payments**  
 
-- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, Stripe
-- ✨ **Features:**
-  - Public contest browsing without login
-  - Secure contest registration with Stripe payments
-  - Role-based dashboards (Admin, Creator, User)
-  - Contest creation, management, and winner declaration
-  - Leaderboard ranking users by contest wins
-  - Live countdown timer with automatic contest closure
-  - JWT-based authentication with protected routes
-  - Modal-based submission system
-  - User win-percentage analytics & profile customization
-  - Dark / Light theme (persisted via localStorage)
-  - Fully responsive across all devices
-- 🚀 **Live:** https://contesthubbd.netlify.app
-- 💻 **Client:** https://github.com/mdmerajali721/contest-hub-client
-- 🖥️ **Server:** https://github.com/mdmerajali721/contest-hub-server
-
+- ⚙️ **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, Stripe  
+- ✨ **Features:**  
+  - Public contest browsing  
+  - Secure registration with Stripe  
+  - Role-based dashboards  
+  - Contest creation & winner declaration  
+  - Leaderboard & analytics  
+  - Dark/Light mode (persisted)  
+- 🚀 **Live:** [contesthub](https://contesthubbd.netlify.app)  
+- 💻 **Client:** [GitHub](https://github.com/mdmerajali721/contest-hub-client)  
+- 🖥️ **Server:** [GitHub](https://github.com/mdmerajali721/contest-hub-server)  
 
 ---
-
 
 ## 🧪 Run Projects Locally
 
 ```bash
-git clone https://github.com/mdmerajali721/repository-name.git
-cd repository-name
+git clone https://github.com/mdmerajali721/<repository-name>.git
+cd <repository-name>
 npm install
 npm run dev
