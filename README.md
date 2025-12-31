@@ -31,28 +31,25 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 
 ## 🧰 Tech Stack
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🎨 Frontend</strong><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>⚙️ Backend</strong><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🛠 Tools & Workflow</strong><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>🚀 Hosting</strong><br/>
-      <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Frontend-ff69b4?style=flat-square" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Backend%20%26%20DB-007ACC?style=flat-square" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Tools%20%26%20Deployment-2ea44f?style=flat-square" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
+  </p>
+</div>
 
 ---
 
