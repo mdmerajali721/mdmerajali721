@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="GitHub Banner" width="100%" style="border-radius:12px;" />
+  <img src="./banner.png" alt="GitHub Banner" width="100%" style="border-radius:12px;"/>
 </p>
 
 <p align="center">
@@ -20,12 +20,12 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance, scalable web apps with clean code and excellent UX.
+I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance, scalable web apps with clean code and exceptional user experiences.
 
-- 🎯 **Focused on:** Clean UI/UX, Performance, Scalability.
-- 🚀 **Hands-on:** Production-level MERN projects.
-- 💡 **Passion:** Solving real-world problems with efficient code.
-- 📚 **Learning:** Exploring Next.js & Advanced Backend Security.
+- 🎯 **Focused on:** Clean UI/UX, Performance optimization, and Scalability.
+- 🚀 **Hands-on:** Solid experience with production-level MERN projects.
+- 💡 **Passion:** Solving real-world problems through efficient code.
+- 📚 **Learning:** Exploring Next.js and Advanced Backend Security.
 
 ---
 
@@ -35,24 +35,26 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
   <table border="0">
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="https://img.shields.io/badge/Frontend-Expertise-ff69b4?style=for-the-badge&logo=react" alt="Frontend" />
+        <img src="https://img.shields.io/badge/Frontend-Expertise-ff69b4?style=for-the-badge&logo=react" />
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Icons" />
       </td>
       <td width="50%" align="center" valign="top">
-        <img src="https://img.shields.io/badge/Backend-Development-007ACC?style=for-the-badge&logo=node.js" alt="Backend" />
+        <img src="https://img.shields.io/badge/Backend-Development-007ACC?style=for-the-badge&logo=node.js" />
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Icons" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="https://img.shields.io/badge/Design%20%26%20Tools-555555?style=for-the-badge&logo=figma" alt="Tools" />
+        <br/>
+        <img src="https://img.shields.io/badge/Design%20%26%20Tools-555555?style=for-the-badge&logo=figma" />
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools Icons" />
       </td>
       <td width="50%" align="center" valign="top">
-        <img src="https://img.shields.io/badge/Cloud%20%26%20Hosting-2ea44f?style=for-the-badge&logo=vercel" alt="Cloud" />
+        <br/>
+        <img src="https://img.shields.io/badge/Cloud%20%26%20Hosting-2ea44f?style=for-the-badge&logo=vercel" />
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify" alt="Hosting Icons" />
       </td>
@@ -71,14 +73,14 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
       <img src="https://img.shields.io/badge/MERN-Full--Stack-green?style=for-the-badge" alt="Stack" />
       <p><i>Production-ready contest system with role-based access & secure payments.</i></p>
       <ul>
-        <li><b>RBAC:</b> Admin, Creator & User dashboards.</li>
-        <li><b>Payments:</b> Stripe integration.</li>
+        <li><b>RBAC:</b> Admin, Creator, & User dashboards.</li>
+        <li><b>Payments:</b> Secure <b>Stripe</b> integration.</li>
         <li><b>Real-time:</b> Automated contest closure & timers.</li>
       </ul>
       <p>
         <a href="https://contesthubbd.netlify.app"><b>🌐 Live Demo</b></a> | 
-        <a href="https://github.com/mdmerajali721/contest-hub-client"><b>📂 Client</b></a> | 
-        <a href="https://github.com/mdmerajali721/contest-hub-server"><b>📂 Server</b></a>
+        <a href="https://github.com/mdmerajali721/contest-hub-client"><b>📂 Client Source</b></a>
+        <a href="https://github.com/mdmerajali721/contest-hub-server.git"><b>📂 Server Source</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -86,14 +88,14 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
       <img src="https://img.shields.io/badge/MERN-Community-orange?style=for-the-badge" alt="Stack" />
       <p><i>Interactive platform for discovering and sharing local culinary experiences.</i></p>
       <ul>
-        <li><b>Auth:</b> Google & Email login.</li>
+        <li><b>Auth:</b> Google & Email/Password login.</li>
         <li><b>Social:</b> Review system with image uploads.</li>
         <li><b>Search:</b> Advanced MongoDB search & sorting.</li>
       </ul>
       <p>
         <a href="https://food-lover21.netlify.app"><b>🌐 Live Demo</b></a> | 
-        <a href="https://github.com/mdmerajali721/food-lover"><b>📂 Client</b></a> | 
-        <a href="https://github.com/mdmerajali721/food-lover-server"><b>📂 Server</b></a>
+        <a href="https://github.com/mdmerajali721/food-lover"><b>📂 Client Source</b></a>
+        <a href="https://github.com/mdmerajali721/food-lover-server"><b>📂 Server Source</b></a>
       </p>
     </td>
   </tr>
@@ -101,7 +103,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   <table border="0">
@@ -152,7 +154,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ## 🧪 Run Projects Locally
 
 ```bash
-git clone https://github.com/mdmerajali721/<repository-name>.git
+git clone [https://github.com/mdmerajali721/](https://github.com/mdmerajali721/)<repository-name>.git
 cd <repository-name>
 npm install
 npm run dev
