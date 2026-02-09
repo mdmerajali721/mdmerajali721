@@ -14,7 +14,7 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Md. Meraj Ali</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+Scalable+Full-Stack+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+Scalable+Full-Stack+Apps;Focused+on+Next.js+%26+Cloud+Native" alt="Typing SVG" />
 </div>
 
 ---
@@ -25,7 +25,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 - 🎯 **Focused on:** Clean UI/UX, Performance optimization, and Scalability.
 - 🚀 **Hands-on:** Solid experience with production-level MERN projects.
 - 💡 **Passion:** Solving real-world problems through efficient code.
-- 📚 **Learning:** Exploring Next.js and Advanced Backend Security.
+- 📚 **2026 Learning Path:** Masterizing **Next.js 15**, **TypeScript**, and **Advanced Backend Security**.
 
 ---
 
@@ -37,12 +37,12 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
       <td width="50%" align="center" valign="top">
         <img src="https://img.shields.io/badge/Frontend-Expertise-ff69b4?style=for-the-badge&logo=react" />
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Icons" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nextjs,ts" alt="Frontend Icons" />
       </td>
       <td width="50%" align="center" valign="top">
         <img src="https://img.shields.io/badge/Backend-Development-007ACC?style=for-the-badge&logo=node.js" />
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Icons" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" alt="Backend Icons" />
       </td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
         <br/>
         <img src="https://img.shields.io/badge/Cloud%20%26%20Hosting-2ea44f?style=for-the-badge&logo=vercel" />
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify" alt="Hosting Icons" />
+        <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,heroku" alt="Hosting Icons" />
       </td>
     </tr>
   </table>
@@ -79,8 +79,8 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
       </ul>
       <p>
         <a href="https://contesthubbd.netlify.app"><b>🌐 Live Demo</b></a> | 
-        <a href="https://github.com/mdmerajali721/contest-hub-client"><b>📂 Client Source</b></a>
-        <a href="https://github.com/mdmerajali721/contest-hub-server.git"><b>📂 Server Source</b></a>
+        <a href="https://github.com/mdmerajali721/contest-hub-client"><b>📂 Client</b></a> | 
+        <a href="https://github.com/mdmerajali721/contest-hub-server.git"><b>📂 Server</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -94,8 +94,8 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
       </ul>
       <p>
         <a href="https://food-lover21.netlify.app"><b>🌐 Live Demo</b></a> | 
-        <a href="https://github.com/mdmerajali721/food-lover"><b>📂 Client Source</b></a>
-        <a href="https://github.com/mdmerajali721/food-lover-server"><b>📂 Server Source</b></a>
+        <a href="https://github.com/mdmerajali721/food-lover"><b>📂 Client</b></a> | 
+        <a href="https://github.com/mdmerajali721/food-lover-server"><b>📂 Server</b></a>
       </p>
     </td>
   </tr>
@@ -154,7 +154,14 @@ I'm a **passionate MERN Stack Developer** dedicated to crafting high-performance
 ## 🧪 Run Projects Locally
 
 ```bash
+# Clone the repository
 git clone [https://github.com/mdmerajali721/](https://github.com/mdmerajali721/)<repository-name>.git
+
+# Navigate to the project directory
 cd <repository-name>
+
+# Install dependencies
 npm install
+
+# Run in development mode
 npm run dev
